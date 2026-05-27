@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="../ListaCompraDomainClasses/ListaCompraDomainClasses/ListaCompraDomainClasses.csproj" />
   <Project Path="ListaCompraAPI/ListaCompraAPI.csproj" />
+  <Project Path="ListaCompraAPILib/ListaCompraAPILib.csproj" />
+  <Project Path="ListaCompraServices/ListaCompraServices.csproj" />
 </Solution>

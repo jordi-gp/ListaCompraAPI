@@ -10,4 +10,10 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.8" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\ListaCompraDomainClasses\ListaCompraDomainClasses\ListaCompraDomainClasses.csproj" />
+    <ProjectReference Include="..\ListaCompraAPILib\ListaCompraAPILib.csproj" />
+    <ProjectReference Include="..\ListaCompraServices\ListaCompraServices.csproj" />
+  </ItemGroup>
+
 </Project>

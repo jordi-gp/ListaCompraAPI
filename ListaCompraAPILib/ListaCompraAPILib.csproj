@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\ListaCompraDomainClasses\ListaCompraDomainClasses\ListaCompraDomainClasses.csproj" />
+    <ProjectReference Include="..\ListaCompraServices\ListaCompraServices.csproj" />
+  </ItemGroup>
+
 </Project>
